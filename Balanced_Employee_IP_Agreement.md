@@ -18,7 +18,7 @@ Cool? Then, by signing this Agreement, and as a condition of your employment, yo
 
 2. **What the Company doesn't own.** If you create IP that doesn't fit into one of the categories listed above, the Company doesn't own it. In other words, the Company doesn't own concepts, designs, developments, discoveries, ideas, improvements, inventions, trade secrets, trademarks, or works of authorship that you develop, invent, or create that do not meet any of the conditions in Section 1. This is true regardless of the computer you use to develop your IP, including the one furnished to you by the Company.
 
-   In addition, changes, features, modifications, or fixes created for Joy Health Tracker (www.joyapp.com) - even if related to Company products or services as detailed in Section 1 - are **not** owned by the Company, and considered part of Section 2.
+   In addition, changes, features, modifications, or fixes created for Joy Health Tracker (www.joyapp.com) - even if related to Company products or services as detailed in Section 1 - are **not** owned by the Company, and considered part of Section 2 of the Balanced Employee Intellectual Property Agreement. 
 
    The Company also doesn't own IP excluded by laws such as those listed in Exhibit A. You acknowledge you have reviewed Exhibit A and have read those laws applicable to you.
 
